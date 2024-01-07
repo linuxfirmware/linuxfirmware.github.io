@@ -1,5 +1,4 @@
 # 在树莓派4B上运行Lineage OS 16
-### By Windows10-Tada
 
 ***警告：下载过程需要连接外网才能进行。翻墙后果自负！***
 
@@ -18,7 +17,6 @@ sync
 ```
 cfdisk /dev/$DEVICEID
 ```
-来分区。  
 先把除了Free Space之外的最后一个分区选中，用上下左右键选择resize，按两次回车  
 再选择save，按回车，输入yes，按回车  
 最后选择quit，按回车
