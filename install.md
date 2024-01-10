@@ -9,7 +9,7 @@
 ```
 dd if=镜像名.img of=/dev/$DEVICEID bs=1M
 ```
-这里的"镜像名.img"替换为你下载的镜像名称，$DEVICEID替换为你的TF卡的设备ID。等待命令完成，然后运行
+这里的 镜像名.img 替换为你下载的镜像名称，$DEVICEID替换为你的TF卡的设备ID。等待命令完成，然后运行
 ```
 sync
 ```
