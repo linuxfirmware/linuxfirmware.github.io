@@ -1,1 +1,27 @@
+/* 设置 Markdown 的背景和字体颜色 */
+body {
+  background-color: #1a1a1a;
+  color: #f8f8f2;
+}
 
+/* 设置代码块的背景和字体颜色 */
+pre {
+  background-color: #282a36;
+  color: #f8f8f2;
+}
+
+/* 设置代码块中的行号颜色 */
+pre code .line-numbers {
+  color: #6272a4;
+}
+
+/* 设置链接的字体颜色 */
+a {
+  color: #ff79c6;
+}
+
+/* 设置标题的颜色和字体大小 */
+h1, h2, h3, h4, h5, h6 {
+  color: #50fa7b;
+  font-size: 1.5em;
+}
