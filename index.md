@@ -1,3 +1,6 @@
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/<YourUserName>/github-markdown-css-dark/style.css">
+```
 # 树莓派运行Android 14完整教程
 ## BY WINDOWS10-TADA
 
