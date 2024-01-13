@@ -27,7 +27,7 @@ cfdisk /dev/$DEVICEID
 su -
 #这里输入root密码
 mount /dev/$DEVICEID1 /mnt
-#比如这里我的设备ID是sdb，就是mount /dev/sdb1 /mnt
+#注意别漏了1，比如这里我的设备ID是sdb，就是mount /dev/sdb1 /mnt
 cd /mnt
 echo "dtoverlay=android-usb" >> config.txt
 ```
