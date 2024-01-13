@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/css/style.css">
 # 在树莓派4B上安装Android 14
 
 ***警告：下载过程需要连接外网才能进行。翻墙后果自负！***
