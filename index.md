@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="/css/markdown.css">
-
 # 树莓派运行Android 14完整教程
 ## BY WINDOWS10-TADA
 
